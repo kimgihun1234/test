@@ -17,4 +17,6 @@ int main() {
 		cin >> command;
 	}
 	cout<<"heeeeeee";
+	cout<<"sdflsj";
+	cout<<"asdfasd";
 }
