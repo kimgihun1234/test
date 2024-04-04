@@ -16,5 +16,5 @@ int main() {
 	while (n--) {
 		cin >> command;
 	}
-	cout << "hello";
+	cout<<"heeeeeee";
 }
