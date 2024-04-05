@@ -16,11 +16,8 @@ int main() {
 	while (n--) {
 		cin >> command;
 	}
-<<<<<<< HEAD
 	cout<<"heee";
-	cout<<"hwerkj"
-=======
+	cout<<"hwerkj";
 	cout<<"sdflsj";
 	cout<<"asdfasd";
->>>>>>> 1570c50e7e8c5c8caa7eff8d5f2170aeb5acf687
 }
