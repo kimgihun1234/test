@@ -16,6 +16,9 @@ int main() {
 	while (n--) {
 		cin >> command;
 	}
-	cout<<"heee";
-	cout<<"hwerkj"
+	cout<<"asfsadfas";
+	cout<<"sadfads";
+	cout<<"haskdfhskd";
+	cout<<"aksdjfksa";
+	cout<<"ads";
 }
