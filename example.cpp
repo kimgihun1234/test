@@ -21,4 +21,5 @@ int main() {
 	cout<<"haskdfhskd";
 	cout<<"aksdjfksa";
 	cout << "asdfasdf";
+	cout << "asdfasd" << "\n";
 }
